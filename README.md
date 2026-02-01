@@ -1,1 +1,4 @@
 # badges-lab
+
+foo.
+boo.
